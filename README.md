@@ -1,3 +1,6 @@
+<img width="1285" height="555" alt="image" src="https://github.com/user-attachments/assets/5c335f3e-d739-49af-85f1-990f9644e27b" />
+
+
 # Todo App Frontend
 
 Modern React frontend built with Next.js, TypeScript, and Tailwind CSS for the Todo List application.
